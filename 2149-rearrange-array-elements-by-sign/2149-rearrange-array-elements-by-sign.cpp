@@ -1,27 +1,21 @@
 class Solution {
 public:
-    vector<int> brute_with_space(vector<int>& nums){
-        // Store +ve no. in pos array, similarly store negative no. in neg array.
-        // then move no. according to the question.
-        vector<int>pos, neg;
-        for(int i = 0 ; i < nums.size() ; i++){
+    vector<int> rearrangeArray(vector<int>& nums) {
+        int l = nums.size();
+        vector<int>a(l, 0);
+        int pos = 0, neg = 1;
+        for(int i = 0 ; i < l ; i++){
             if(nums[i] >= 0){
-                pos.push_back(nums[i]);
+                a[pos] = nums[i];
+                pos += 2;
             }
             else{
-                neg.push_back(nums[i]);
+                a[neg] = nums[i];
+                neg += 2;
             }
         }
-
-        for(int i = 0 ; i < nums.size()/2 ; i++){
-            nums[2*i] = pos[i];
-            nums[(2*i) + 1] = neg[i];
-        }
-
-        return nums;
-    }
-
-    vector<int> rearrangeArray(vector<int>& nums) {
-        return brute_with_space(nums);
+        return a;
     }
 };
+// if(pos + 2 < l) 
+// if(neg + 2 < l) 
