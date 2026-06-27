@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
