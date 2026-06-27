@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
+| [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dev-OmRaj/CP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dev-OmRaj/CP/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
