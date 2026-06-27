@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
 | [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dev-OmRaj/CP/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
