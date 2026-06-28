@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
+| [1903-largest-odd-number-in-string](https://github.com/dev-OmRaj/CP/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/dev-OmRaj/CP/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/dev-OmRaj/CP/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
