@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/dev-OmRaj/CP/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-OmRaj/CP/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dev-OmRaj/CP/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/dev-OmRaj/CP/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dev-OmRaj/CP/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dev-OmRaj/CP/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
