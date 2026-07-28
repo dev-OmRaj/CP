@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/dev-OmRaj/CP/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/dev-OmRaj/CP/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dev-OmRaj/CP/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/dev-OmRaj/CP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dev-OmRaj/CP/tree/master/0232-implement-queue-using-stacks) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-OmRaj/CP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
