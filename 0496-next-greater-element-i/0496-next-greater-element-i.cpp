@@ -1,26 +1,22 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        // Declare Ans array
-        vector<int>ans;
-        // Traversing the subarray 
-        for(int i = 0 ; i < nums1.size() ; i++){
-            // find the current element in the main array
-            auto it = find(nums2.begin(), nums2.end(), nums1[i]);
-            // Converting the iterator into index
-            int idx = it - nums2.begin();
-            bool found = false;
-            for(int j = idx + 1; j < nums2.size() ; j++){
-                // Searching the next greater element
-                if(nums2[j] > nums1[i]) {
-                    found = true;
-                    ans.push_back(nums2[j]);
-                    break;
+        unordered_map<int,int>mp;
+        stack<int>st;
+        for(int i = nums2.size()-1 ; i >= 0 ; i--){
+            int num = nums2[i];
+            while(!st.empty() && st.top() <= num) st.pop();
+                if(!st.empty()){
+                    mp[num] = st.top();
                 }
-            }
-            // If greater element not found then push -1.
-            if(!found) ans.push_back(-1);
-                
+                else{
+                    mp[num] = -1;
+                }
+            st.push(num);
+        }
+        vector<int>ans;
+        for(int i = 0 ; i < nums1.size() ; i++){
+            ans.push_back(mp[nums1[i]]);
         }
         return ans;
     }
