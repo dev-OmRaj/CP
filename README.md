@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/dev-OmRaj/CP/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/dev-OmRaj/CP/tree/master/0496-next-greater-element-i) |
 | [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dev-OmRaj/CP/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/dev-OmRaj/CP/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/dev-OmRaj/CP/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/dev-OmRaj/CP/tree/master/0876-middle-of-the-linked-list) |
