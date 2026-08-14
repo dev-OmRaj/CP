@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/dev-OmRaj/CP/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/dev-OmRaj/CP/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/dev-OmRaj/CP/tree/master/0496-next-greater-element-i) |
 | [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dev-OmRaj/CP/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/dev-OmRaj/CP/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/dev-OmRaj/CP/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
