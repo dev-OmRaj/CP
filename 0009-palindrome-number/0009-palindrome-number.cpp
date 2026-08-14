@@ -2,15 +2,20 @@ class Solution {
 public:
     bool isPalindrome(int x) {
         if(x < 0) return false;
+        if(x == 0) return true;
+        int digits = log10(x)+1;
+        if(digits == 1) return true;
         int nx = 0;
-        int temp = x;
+        int temp = digits/2;
         while(temp != 0){
-            int digit = temp%10;
-            if(nx <= (INT_MAX-digit)/10){
-                nx = nx*10 + digit;
-            }
-            temp /= 10;
+            nx = nx*10 + x%10;
+            x /= 10;
+            temp--;
         }
-        return(x == nx);
+        if((digits & 1) == 1){
+            nx = nx*10 + x%10;
+        }
+        return (x == nx);
+
     }
 };
