@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dev-OmRaj/CP/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/dev-OmRaj/CP/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/dev-OmRaj/CP/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-OmRaj/CP/tree/master/1903-largest-odd-number-in-string) |
