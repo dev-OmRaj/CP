@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/dev-OmRaj/CP/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/dev-OmRaj/CP/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/dev-OmRaj/CP/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/dev-OmRaj/CP/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/dev-OmRaj/CP/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-OmRaj/CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/dev-OmRaj/CP/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/dev-OmRaj/CP/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dev-OmRaj/CP/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/dev-OmRaj/CP/tree/master/0344-reverse-string) |
