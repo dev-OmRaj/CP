@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/dev-OmRaj/CP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-OmRaj/CP/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/dev-OmRaj/CP/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dev-OmRaj/CP/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/dev-OmRaj/CP/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/dev-OmRaj/CP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-OmRaj/CP/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/dev-OmRaj/CP/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/dev-OmRaj/CP/tree/master/0496-next-greater-element-i) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dev-OmRaj/CP/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/dev-OmRaj/CP/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
