@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/dev-OmRaj/CP/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/dev-OmRaj/CP/tree/master/0496-next-greater-element-i) |
 | [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-OmRaj/CP/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dev-OmRaj/CP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -210,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dev-OmRaj/CP/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-OmRaj/CP/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
