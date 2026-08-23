@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dev-OmRaj/CP/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dev-OmRaj/CP/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/dev-OmRaj/CP/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/dev-OmRaj/CP/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dev-OmRaj/CP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-OmRaj/CP/tree/master/0128-longest-consecutive-sequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dev-OmRaj/CP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dev-OmRaj/CP/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/dev-OmRaj/CP/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/dev-OmRaj/CP/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/dev-OmRaj/CP/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/dev-OmRaj/CP/tree/master/1903-largest-odd-number-in-string) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dev-OmRaj/CP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dev-OmRaj/CP/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-OmRaj/CP/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
