@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dev-OmRaj/CP/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/dev-OmRaj/CP/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/dev-OmRaj/CP/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dev-OmRaj/CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dev-OmRaj/CP/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/dev-OmRaj/CP/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/dev-OmRaj/CP/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/dev-OmRaj/CP/tree/master/0560-subarray-sum-equals-k) |
 | [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-OmRaj/CP/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dev-OmRaj/CP/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dev-OmRaj/CP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dev-OmRaj/CP/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dev-OmRaj/CP/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dev-OmRaj/CP/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
