@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dev-OmRaj/CP/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/dev-OmRaj/CP/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dev-OmRaj/CP/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dev-OmRaj/CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dev-OmRaj/CP/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/dev-OmRaj/CP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dev-OmRaj/CP/tree/master/0048-rotate-image) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dev-OmRaj/CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dev-OmRaj/CP/tree/master/0035-search-insert-position) |
 | [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
 ## Trie
