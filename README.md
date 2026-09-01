@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dev-OmRaj/CP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dev-OmRaj/CP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dev-OmRaj/CP/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dev-OmRaj/CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-OmRaj/CP/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/dev-OmRaj/CP/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/dev-OmRaj/CP/tree/master/0496-next-greater-element-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dev-OmRaj/CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dev-OmRaj/CP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dev-OmRaj/CP/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dev-OmRaj/CP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1539-kth-missing-positive-number](https://github.com/dev-OmRaj/CP/tree/master/1539-kth-missing-positive-number) |
 ## Trie
 |  |
