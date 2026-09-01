@@ -11,7 +11,7 @@ public:
                 l = m+1;
             }
             else{
-                ans = min(ans, nums[h]);
+                ans = min(ans, nums[m]);
                 h = m-1;
             }
         }
