@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dev-OmRaj/CP/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/dev-OmRaj/CP/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/dev-OmRaj/CP/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dev-OmRaj/CP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-OmRaj/CP/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dev-OmRaj/CP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dev-OmRaj/CP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dev-OmRaj/CP/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/dev-OmRaj/CP/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/dev-OmRaj/CP/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dev-OmRaj/CP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dev-OmRaj/CP/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dev-OmRaj/CP/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dev-OmRaj/CP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dev-OmRaj/CP/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/dev-OmRaj/CP/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
