@@ -1,19 +1,26 @@
 class Solution {
 public:
-    bool isPalindrome(string s) {
-        string news = "";
-        for(int i = 0 ; i < s.size() ; i++){
-            if(s[i] >= 'A' && s[i] <= 'Z'){
-                news.push_back(s[i]-'A'+ 'a');
-            }
-            else if(s[i] >= 'a' && s[i] <= 'z') news.push_back(s[i]);
-            else if(s[i] >= '0' && s[i] <= '9') news.push_back(s[i]);
+    bool isalphanumeric(char t){
+        if( (t >= 'a' && t <= 'z') || (t >= '0' && t <= '9') || (t >= 'A' && t <= 'Z') ) return true;
+        return false;
+    }
+    char cap(char t){
+        if(t >= 'A' && t <= 'Z'){
+            return t - 'A' + 'a';
         }
-        // cout<<news<<" "<<s<<endl;
-        int i = 0, j = news.size()-1;
-        while(i < j){
-            if(news[i] != news[j]) return false;
-            i++; j--;
+        return t;
+    }
+    bool isPalindrome(string s) {
+        int f = 0, e = s.size()-1;
+        while(f < e){
+            while(f < e && !isalphanumeric(s[f])){
+                f++;
+            }
+            while(f < e && !isalphanumeric(s[e])){
+                e--;
+            }
+            if(cap(s[f]) != cap(s[e])) return false;
+            f++;e--;
         }
         return true;
     }
