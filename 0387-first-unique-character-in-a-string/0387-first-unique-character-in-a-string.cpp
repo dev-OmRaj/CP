@@ -1,20 +1,13 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int ans = s.size();
-        unordered_map<char, pair<int,int>>mp; // element:index:count
+        vector<int>f(26,0);
         for(int i = 0 ; i < s.size() ; i++){
-            mp[s[i]].first = i;
-            mp[s[i]].second++;
+            f[s[i] - 'a']++;
         }
-        
-        for(auto it: mp){
-            if(it.second.second == 1){
-                ans = min(ans, it.second.first);
-            }
+        for(int i = 0 ; i < s.size() ; i++){
+            if(f[s[i] - 'a'] == 1) return i;
         }
-        if(ans == s.size()) return -1;
-        return ans;
-
+        return -1;
     }
 };
