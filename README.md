@@ -249,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dev-OmRaj/CP/tree/master/0560-subarray-sum-equals-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dev-OmRaj/CP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
